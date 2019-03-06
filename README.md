@@ -1,3 +1,3 @@
 # OHEM
 
-A repo about some information about OHEM for teammates.
+A repo about some information regarding OHEM for teammates.
